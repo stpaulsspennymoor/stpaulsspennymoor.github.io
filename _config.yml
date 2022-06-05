@@ -24,9 +24,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 
