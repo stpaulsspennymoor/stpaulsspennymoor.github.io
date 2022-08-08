@@ -1,10 +1,10 @@
 ---
-title:
+title: null
 description: Welcome to St Paul's Church Spennymoor in the Diocese of Durham. It is our vision to reach out and serve the people of Spennymoor, to share God’s love with others and to welcome people in.
 keywords: Spennymoor, County Durham, Church of England, Anglican Diocese of Durham, Spennymoor Churches, Community, Religion, Anglican, Mission, Outreach, Love of God, Christian, Christianity, Worship, Music, Friendship, Fellowship
 header_image: /assets/WeddingHeader_917x0_3_917x0.jpg
 ---
-# Welcome to St Paul's Spennymoor, in the Diocese of Durham
+# Welcome to St Paul's Spennymoor in the Diocese of Durham
 
 <em><span style="font-size: x-large;"><strong>Here at St Paul's we're on a journey discovering Jesus and sharing his love!</strong></span></em>
 
