@@ -8,4 +8,4 @@ We produce a monthly newsletter with the latest news, features and events taking
 
 The newsletter is delivered to nearly 200 homes across Spennymoor and the surrounding areas. If you’d like to subscribe to the printed newsletter for an annual subscription of just £2.50 and delivered to your door, please <a target="_self" href="mailto:crosswaysnewsletter@hotmail.co.uk?subject=Enquiry%20about%20Crossways">contact us</a>
 
-[**Download a copy of the July 2022 edition of Crossways**](https://media.acny.uk/media/news/post/2022/07/July2022.pdf){:target="_blank"}
+[**Download a copy of the August 2022 edition of Crossways**](https://media.acny.uk/media/news/post/2022/08/August2022.pdf){:target="_blank"}
