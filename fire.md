@@ -3,7 +3,6 @@ title: The fire of 1953
 description: A selection of photographs from the devastating fire of 1953 and the work ahead of its re-consecration in 1956.
 keywords: Spennymoor, Photo gallery, the fire of 1953, history, re-consecration
 ---
-# The fire of 1953
 <p><span style="color: #000000"><span style="font-size: larger">A selection of photographs from the devastating fire of 1953 and the work ahead of its re-consecration in 1956. Click on the thumbnails below&#160;to view a larger version.</span></span></p><div class="clear"></div>
 <div class="gallery_wrapper">
  <div class="gallery_photo_holder" style="padding:1px;margin-right:2px; margin-bottom:6px; float:left; border: 1px solid #E1E1E1;"><a href="/assets/Fireman_400.jpg" rel="shadowbox[gallery]" title="A firefighter tackles the blaze"> 

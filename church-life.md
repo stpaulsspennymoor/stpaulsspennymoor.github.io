@@ -4,8 +4,6 @@ description: Find out about the many different activities for you to be part of 
 keywords: Spennymoor, youth work, Play Church, Brownies and Guides, Shared Ministry, Open Church, Church Reaching out to People, The Mothers' Union, Prayer groups,
 header_image: /assets/ChurchLifeHeader_917x0.jpg
 ---
-# Church life and activties
-
 <span style="font-size: medium;"><strong>Music</strong></span><br><span style="font-size: larger;">Music is very important in the life of our church. We have an enthusiastic choir, who lead the congregation in singing a wide range of hymns and songs, accompanied by organ, piano and other instruments.</span>
 
 <strong><span style="font-size: medium;">Trekkers</span></strong><br><span style="font-size: larger;">This is our Sunday morning children's ministry. The weekly session from 10.30-11.15am is for children aged between 3 and 11 and is designed to introduce them to the Christian faith in a fun and creative way. The session lasts for approximately 45 minutes before everyone comes back into church for the rest of the main Sunday service.</span>

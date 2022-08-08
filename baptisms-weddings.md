@@ -1,11 +1,9 @@
 ---
-title: Book a baptism or wedding
+title: Baptisms and weddings
 description: If you wish to arrange a baptism or wedding at St Paul’s or Whitworth Church, or would like to discuss them further, then please call in to the Church on a Tuesday evening between 6-6.30pm.
 keywords: Spennymoor, baptisms, weddings, banns, bookings, church office, funerals
 header_image: /assets/WeddingHeader_917x0.jpg
 ---
-# Baptisms and Weddings
-
 <span style="text-align: center;"><a target="_blank" href="http://www.yourchurchwedding.org"><img width="640" height="80" align="middle" alt="Your Church Wedding" src="/assets/Websitebannerlarge.jpg"/></a></span>
 
 <span style="text-align: left;"><span style="font-size: larger;">If you wish to arrange a <em><strong>baptism</strong></em> at St Paul’s or Whitworth Church, or would like to discuss them further, then please call&#160;in at St Paul's&#160;Church on a Wednesday evening between 6-6.30pm. The office staff will be more than happy to answer any questions or arrange a baptism for you.&#160;</span></span>
