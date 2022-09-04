@@ -23,7 +23,7 @@ Copies of the safeguarding policies are available below.
 
 <strong>Vicar</strong>
 
-Revd Matt Tarling <em>(Currently on sabbatical until the end of August 2022. Please contact the Parish Safeguarding Officer, or Durham Diocesan Safeguarding Adviser)</em><br>01388 327603
+Revd Matt Tarling<br>01388 327603
 
 <strong>Parish Safeguarding Officer</strong>
 
