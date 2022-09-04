@@ -8,7 +8,7 @@ header_image: /assets/WeddingHeader_917x0.jpg
 
 <span style="text-align: left;">If you wish to arrange a <em><strong>baptism</strong></em> at St Paul’s or Whitworth Church, or would like to discuss them further, then please call&#160;in at St Paul's&#160;Church on a Wednesday evening between 6-6.30pm. The office staff will be more than happy to answer any questions or arrange a baptism for you.&#160;</span>
 
-<span style="text-align: left;">For <em><strong>wedding enquiries</strong></em>, please call the curate on 01388 304882 or email our team at spennymoorandwhitworthweddings@gmail.com.</span>
+<span style="text-align: left;">For <em><strong>wedding enquiries</strong></em>, please call the vicar on 01388 327603 or email our team at spennymoorandwhitworthweddings@gmail.com.</span>
 
 <span style="color: #000000"><strong><span style="font-size: medium">Useful information about baptism</span></strong></span>
 
