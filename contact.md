@@ -9,9 +9,9 @@ Whitworth Terrace\\
 Spennymoor\\
 DL16 7SG
 
-Please contact via <a target="_self" href="mailto:stpaulspennymoor@gmail.com">email</a> or by telephone.
+Please contact via [email](mailto:stpaulspennymoor@gmail.com) or by telephone.
 
-If you are contacing us to arrange a baptism or wedding, please <a href="/baptisms-weddings/" target="_self">read this page for more information</a>.
+If you are contacing us to arrange a baptism or wedding, please [read this page for more information](/baptisms-weddings/).
 
 <table width="100%" align="left" cellpadding="4" cellspacing="4">
   <tbody>
