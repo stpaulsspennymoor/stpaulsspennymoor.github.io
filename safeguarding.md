@@ -9,34 +9,36 @@ Our parish follows the guidelines set out in the Durham Diocesan policy and the 
 
 Copies of the safeguarding policies are available below.
 
-<a href="https://www.dropbox.com/s/xh7efadbk3x2dke/DurhamDiocesanSafeguardingPolice-January2019-final-4.pdf?dl=0" target="_blank">Durham Diocesan Safeguarding Policy</a>
+[Durham Diocesan Safeguarding Policy](https://www.dropbox.com/s/xh7efadbk3x2dke/DurhamDiocesanSafeguardingPolice-January2019-final-4.pdf?dl=0)
 
-<a href="https://www.dropbox.com/s/fttkepg70toqm3f/St%20Paul%27s%20Parish%20Safeguarding%20Policy.pdf?dl=0" target="_blank">St Paul's Church Spennymoor Safeguarding Policy</a>
+[St Paul's Church Spennymoor Safeguarding Policy](https://www.dropbox.com/s/fttkepg70toqm3f/St%20Paul%27s%20Parish%20Safeguarding%20Policy.pdf?dl=0)
 
-<a href="https://www.dropbox.com/s/mz8htn3gz95xghe/St%20Paul%27s%20Vulnerable%20Adults%20Policy.pdf?dl=0" target="_blank">St Paul's Church Spennymoor Vulnerable Adults Policy</a>
+[St Paul's Church Spennymoor Vulnerable Adults Policy](https://www.dropbox.com/s/mz8htn3gz95xghe/St%20Paul%27s%20Vulnerable%20Adults%20Policy.pdf?dl=0)
 
-<a href="https://www.dropbox.com/s/ti6geusj652qzo1/St%20Paul%27s%20Domestic%20Abuse%20policy.pdf?dl=0" target="_blank">St Paul's Church Spennymoor Domestic Abuse Policy</a>
+[St Paul's Church Spennymoor Domestic Abuse Policy](https://www.dropbox.com/s/ti6geusj652qzo1/St%20Paul%27s%20Domestic%20Abuse%20policy.pdf?dl=0)
 
-<a href="https://www.dropbox.com/s/bcy9hbhtp65lb1e/St%20Paul%27s%20Personal%20safety%202021.pdf?dl=0" target="_blank">St Paul's Church Spennymoor Personal Safety Policy</a>
+[St Paul's Church Spennymoor Personal Safety Policy](https://www.dropbox.com/s/bcy9hbhtp65lb1e/St%20Paul%27s%20Personal%20safety%202021.pdf?dl=0)
 
-<em><strong><span style="font-size: 13.2px;">If you have concerns reguarding safeguarding, you can contact:</span></strong></em>
+**_If you have concerns reguarding safeguarding, you can contact:_**
 
-<strong>Vicar</strong>
+**Vicar**
 
-Revd Matt Tarling<br>01388 327603
+Revd Matt Tarling\\
+01388 327603
 
-<strong>Parish Safeguarding Officer</strong>
+**Parish Safeguarding Officer**
 
-Mrs Lesley Riddle<br>01388 607418
+Mrs Lesley Riddle\\
+01388 607418
 
-<strong>Durham Diocesan Safeguarding Adviser</strong>
+**Durham Diocesan Safeguarding Adviser**
 
-<strong>Name: </strong>Beth Miller
+**Name:** Beth Miller
 
-<strong>Address: </strong>Cuthbert House, Stonebridge, Durham DH1 3RY
+**Address:** Cuthbert House, Stonebridge, Durham DH1 3RY
 
-<strong>Email:</strong> beth@bethmillerisw.co.uk / beth.miller@durham.anglican.org
+**Email:** beth@bethmillerisw.co.uk / beth.miller@durham.anglican.org
 
-<strong>Mobile: </strong>07968034075
+**Mobile:** 07968034075
 
-<a href="https://durhamdiocese.org/parish-support/safeguarding/" target="_blank"> https://durhamdiocese.org/parish-support/safeguarding</a>
+[https://durhamdiocese.org/parish-support/safeguarding](https://durhamdiocese.org/parish-support/safeguarding/)
