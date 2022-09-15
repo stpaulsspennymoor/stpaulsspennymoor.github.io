@@ -24,12 +24,16 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
       <td><p><strong><span style="font-size: medium;">Revd Matt Tarling</span></strong></p><p>Tel: 01388 327603</p><p>Matt became vicar of Spennymoor and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth</a> parishes in January 2013 after serving his curacy in the parishes of Blaydon and Swalwell.</p></td>
     </tr>
     <tr>
-      <td><font size="4"><b>Curate</b></font></td>
-      <td><p></p></td>
+      <td><font size="4"><b>Curates</b></font></td>
+      <td></td>
     </tr>
     <tr>
       <td><img src="/assets/RevdAnthonySmith.png" width="134" height="159" border="1" alt="<empty>"/></td>
-      <td><strong><span style="font-size: medium;">Revd Anthony Smith</span></strong><p>Tel: 01388 304882</p><p>Revd Smith was ordained as a deacon in June 2019 at Durham Cathedral and priested in September 2020 at Sunderland Minster and serves his curacy as assistant minister here at St Paul's and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth Church</a>.</p></td>
+      <td><strong><span style="font-size: medium;">Revd Anthony Smith</span></strong><p>Tel: 01388 304882</p><p>Anthony was ordained as a deacon in June 2019 at Durham Cathedral and priested in September 2020 at Sunderland Minster and serves his curacy here at St Paul's and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth Church</a>.</p></td>
+    </tr>
+    <tr>
+      <td><img src="/assets/RevdAliWilliams.jpg" width="134" height="142" border="1" alt="<empty>"/></td>
+      <td><strong><span style="font-size: medium;">Revd Ali Williams</span></strong><p></p><p>Ali was ordained in Durham Cathedral as a deacon in September 2020 and as a priest in July 2021 and joined us in September 2022 to continue her curacy at St Paul's and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth Church</a>.</p></td>
     </tr>
     <tr>
       <td><span style="font-size: large;"><strong>Churchwarden</strong></span></td>
