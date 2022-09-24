@@ -9,7 +9,7 @@ Whitworth Terrace\\
 Spennymoor\\
 DL16 7SG
 
-Please contact via [email](mailto:stpaulspennymoor@gmail.com) or by telephone.
+Please contact via [email](mailto:office@stpaulsspennymoor.co.uk) or by telephone.
 
 If you are contacing us to arrange a baptism or wedding, please [read this page for more information](/baptisms-weddings/).
 
@@ -52,7 +52,7 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
 ## Press and Communications Officer
 
 Christopher Luke\\
-stpauls_spennymoor@hotmail.com
+office@stpaulsspennymoor.co.uk
 
 ## St Paul's Parish Records
 

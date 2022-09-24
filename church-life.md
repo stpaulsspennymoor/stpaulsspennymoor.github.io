@@ -26,4 +26,4 @@ As part of our continued commitment to reaching out to the community, every Wedn
 The Mothers' Union is an international Christian charity which seeks to support families worldwide. The <img hspace="5" alt="Mothers' Union logo" align="right" width="200" height="43" src="/assets/MothersUnion.jpg"/>St Paul’s branch of the Mothers’ Union is an active group which meets on the second Monday of every month. The meetings usually include a guest speaker. For more information about joining the Mothers’ Union, please contact June on 01388 746002.
 
 <span style="font-size: medium">**Bible study groups**</span>\\
-These run throughout the year. For more information, please [contact us](mailto:stpauls_spennymoor@hotmail.com?subject=Prayer%20group%20request).
+These run throughout the year. For more information, please [contact us](mailto:office@stpaulsspennymoor.co.uk?subject=Prayer%20group%20request).
