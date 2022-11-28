@@ -4,6 +4,8 @@ description: Details of the many different services which take place at St Paul'
 keywords: Spennymoor, services, days, times, Holy Communion, Sung Eucharist, Remembrance and Thanksgiving Service, Open Church, Play Church
 header_image: /assets/Homepage_header_03_3_917x0.jpg
 ---
+Details of our regular services are given below. For our special services and events, visit our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/).
+
 ## Sundays
 
 10.30am - Holy Communion / Trekkers\\
