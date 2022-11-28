@@ -6,6 +6,6 @@ header_image: /assets/CrosswaysMasthead_917x0.jpg
 ---
 We produce a monthly newsletter with the latest news, features and events taking place across the parish and at our sister church, Whitworth.
 
-The newsletter is delivered to nearly 200 homes across Spennymoor and the surrounding areas. If you’d like to subscribe to the printed newsletter for an annual subscription of just £2.50 and delivered to your door, please [contact us](mailto:crosswaysnewsletter@hotmail.co.uk?subject=Enquiry%20about%20Crossways)
+The newsletter is delivered to nearly 200 homes across Spennymoor and the surrounding areas. If you’d like to subscribe to the printed newsletter for an annual subscription of just £2.50 and delivered to your door, please [contact us](mailto:office@stpaulsspennymoor.co.uk?subject=Enquiry%20about%20Crossways)
 
-[**Download a copy of the November 2022 edition of Crossways**](https://media.acny.uk/media/news/post/2022/11/November2022.pdf){:target="_blank"}
+The latest edition of Crossways is available on our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/news/).
