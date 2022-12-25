@@ -22,4 +22,4 @@ header_image: /assets/WeddingHeader_917x0_3_917x0.jpg
   </tbody>
 </table>
 
-<p style="text-align: center;"><a href="https://givealittle.co/campaigns/375c4b20-529a-4566-b6fb-0615e7f3449f" target="_blank"><img src="/assets/Donation button 4.png" alt="Donate to St Paul&#39;s Spennymoor" width="600" height="93"></a></p>
+<p style="text-align: center;"><a href="https://www.parishgiving.org.uk/donors/find-your-parish/spennymoor-st-paul-county-durham/" target="_blank"><img src="/assets/Donation button 4.png" alt="Donate to St Paul&#39;s Spennymoor" width="600" height="93"></a></p>
