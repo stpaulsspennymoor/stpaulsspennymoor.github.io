@@ -12,7 +12,6 @@
        
         <div class="header_navigation">
                     <div class="mainlinkcontainer"><span class="mainnavigation_link"><a href="/">Home</a></span></div>
-                    <div class="mainlinkcontainer"><span class="mainnavigation_link"><a href="/christmas/">Christmas</a></span></div>
                     <div class="mainlinkcontainer"><span class="mainnavigation_link"><a href="/services/">Services</a></span></div>
                     <div class="mainlinkcontainer"><span class="mainnavigation_link"><a href="/church-life/">Church Life</a></span></div>
                     <div class="mainlinkcontainer"><span class="mainnavigation_link"><a href="/baptisms-weddings/">Book a Baptism or Wedding</a></span></div>
@@ -30,7 +29,7 @@
           {%- if page.header_image -%}<div class="header_image_wrapper">
             <span class="header_image_container">
               {%- if page.header_url -%}<a href="{{ page.header_url }}">{%- endif -%}
-                <img src="{{ page.header_image }}" alt="{{ page.header_alt }}" border="0">
+              {%- if page.header_alt -%}<img src="{{ page.header_image }}" alt="{{ page.header_alt }}" border="0">{%- else -%}<img src="{{ page.header_image }}" border="0">{%- endif -%}
               {%- if page.header_url -%}</a>{%- endif -%}
             </span>
             </div>{%- endif -%}
