@@ -18,6 +18,8 @@ The chancel roof was decorated with a medieval geometric design, enriched with c
 
 After three long years the church was re-consecrated and reopened for worship on November 1st 1956. The reopening coincided with a visit from the late Queen Mother who was passing through the region. During her short visit to the Church, she remarked on the “bold use of colour” when looking up at the ceilings.
 
+There is a [separate page](/fire/) with a selection of photographs from the fire of 1953.
+
 ## 50th Anniversary Celebrations
 
 <img border="1" hspace="5" alt="50th anniversary service in 2006" align="right" width="250" height="179" src="/assets/Anniversary service.jpg"/>In 2006 the parish church celebrated its golden anniversary with a series of events and it all kicked off with the release of 50 golden balloons to start the year-long celebrations.
