@@ -4,6 +4,8 @@ description: Find out about the many different activities for you to be part of 
 keywords: Spennymoor, youth work, Play Church, Brownies and Guides, Shared Ministry, Open Church, Church Reaching out to People, The Mothers' Union, Prayer groups,
 header_image: /assets/ChurchLifeHeader_917x0.jpg
 ---
+For the latest news about all that is going on at St Paul's, check out our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/news/), and follow us on [Facebook](https://www.facebook.com/stpaulsspennymoor), [Instagram](https://www.instagram.com/stpaulsspennymoor/) and [Twitter](https://twitter.com/stpaulsspenny).
+
 <span style="font-size: medium;">**Music**</span>\\
 Music is very important in the life of our church. We have an enthusiastic choir, who lead the congregation in singing a wide range of hymns and songs, accompanied by organ, piano and other instruments.
 
