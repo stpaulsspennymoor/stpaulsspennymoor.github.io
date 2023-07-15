@@ -6,7 +6,7 @@ header_image: /assets/WeddingHeader_917x0_3_917x0.jpg
 ---
 # Welcome to St Paul's Spennymoor in the Diocese of Durham
 
-<span style="font-size: x-large;">_**Here at St Paul's we're on a journey discovering Jesus and sharing his love!**_</span>
+<span style="font-size: x-large;">_**Believing the Good News, worshipping Jesus, sharing his love.**_</span>
 
 <span style="font-size: medium;">St Paul's church is at the heart of the community and it is our vision to reach out and serve the people of Spennymoor and beyond.</span>
 
