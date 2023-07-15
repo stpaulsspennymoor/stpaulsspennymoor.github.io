@@ -8,8 +8,8 @@ Details of our regular services are given below. For our special services and ev
 
 ## Sundays
 
-10.30am - Holy Communion / Trekkers\\
-(An All-Age service takes place on the first Sunday of every month)
+10.30am - Holy Communion with activities for children and young people\\
+(An All Together service takes place on the first Sunday of every month)
 
 [_**The service is live-streamed on our Facebook page.**_](https://www.facebook.com/stpaulsspennymoor){:target="_blank"}
 
