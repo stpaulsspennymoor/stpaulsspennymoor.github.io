@@ -24,7 +24,7 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
       <td><p><strong><span style="font-size: medium;">Revd Matt Tarling</span></strong></p><p>Tel: 01388 327603</p><p>Matt became vicar of Spennymoor and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth</a> parishes in January 2013 after serving his curacy in the parishes of Blaydon and Swalwell.</p></td>
     </tr>
     <tr>
-      <td><font size="4"><b>Curates</b></font></td>
+      <td><font size="4"><b>Curate</b></font></td>
       <td></td>
     </tr>
     <tr>
