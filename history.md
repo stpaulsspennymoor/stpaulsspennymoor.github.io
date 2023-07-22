@@ -4,11 +4,11 @@ description: Background information about the parish Church and details about th
 keywords: Spennymoor, St Paul's Church Spennymoor history, the fire of 1953, Queen Mother's visit to Spennymoor in 1956, 50th anniversary celebrations, New Creation East End stained glass window, former vicars
 header_image: /assets/HistoryHeader_917x0.jpg
 ---
-The Church has stood on Whitworth Terrace since its consecration in 1858. In 1880, the north aisle (the present Lady Chapel) was added and in 1890 the tower. A clock for the tower was added in 1898 and the following year tenants of the Shafto estates, together with parishioners donated the chimes. Eight tubular bells were placed in the tower, which were used and repaired until the 1960s when they became unsafe.
+The Church was consecrated in 1858 and in 1880, the north aisle (the present Lady Chapel) was added and in 1890 the tower. A clock for the tower was added in 1898 and the following year tenants of the Shafto estates, together with parishioners donated the chimes. Eight tubular bells were placed in the tower, which were used and repaired until the 1960s when they became unsafe.
 
 ## <img border="1" hspace="5" alt="The Church on fire" align="right" width="250" height="180" src="/assets/Church fire(1).jpg"/>The fire of 1953
 
-It was St James’ Day, Saturday 25th July 1953 that disaster struck. A huge fire ripped through the building and reduced the church to a ruin with only the walls standing. A local man, a miner, was later convicted of deliberately setting fire to the church. It is believed he had a grudge against the church, because in the previous month he had been convicted of stealing the communion wine!
+It was St James’ Day, Saturday 25th July 1953 that disaster struck. A huge fire ripped through the building and reduced the church to a ruin with only the walls standing.
 
 The task of rebuilding the church was immense and took more than three years to complete at a cost of around £26,000. In rebuilding the church, a spacious and open chancel and sanctuary were achieved by locating the choir-stalls and organ at the west end of the building. The former high altar was refurbished and is now in the Lady Chapel. A new high altar was installed and proves a stunning focal piece.
 
