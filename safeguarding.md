@@ -9,7 +9,7 @@ Our parish follows the guidelines set out in the Durham Diocesan policy and the 
 
 Copies of the safeguarding policies are available below.
 
-[Durham Diocesan Safeguarding Policy](https://www.dropbox.com/s/xh7efadbk3x2dke/DurhamDiocesanSafeguardingPolice-January2019-final-4.pdf?dl=0){:target="_blank"}
+[Durham Diocesan Safeguarding Policy](https://durhamdiocese.org/parish-support/safeguarding/safeguarding-documents-and-policies/){:target="_blank"}
 
 [St Paul's Church Spennymoor Safeguarding Policy](https://www.dropbox.com/s/fttkepg70toqm3f/St%20Paul%27s%20Parish%20Safeguarding%20Policy.pdf?dl=0){:target="_blank"}
 
