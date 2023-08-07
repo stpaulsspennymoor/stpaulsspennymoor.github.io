@@ -24,16 +24,6 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
       <td><p><strong><span style="font-size: medium;">Revd Matt Tarling</span></strong></p><p>Tel: 01388 327603</p><p>Matt became vicar of Spennymoor and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth</a> parishes in January 2013 after serving his curacy in the parishes of Blaydon and Swalwell.</p></td>
     </tr>
     <tr>
-      <td><font size="4"><b>Curate</b></font></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><img src="/assets/RevdAliWilliams.jpg" width="134" height="142" border="1" alt="<empty>"/></td>
-      <td><strong><span style="font-size: medium;">Revd Ali Williams</span></strong><p>Tel: 07834 577729</p><p>Ali was ordained in Durham Cathedral as a deacon in September 2020 and as a priest in July 2021 and joined us in September 2022 to continue her curacy at St Paul's and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth Church</a>.</p></td>
-    </tr>
-    <tr>
-      <td><span style="font-size: large;"><strong>Churchwarden</strong></span></td>
-      <td></td>
     </tr>
     <tr>
       <td><img src="/assets/CL churchwarden.png" width="134" height="174" border="1" alt="<empty>"/><br><p></p></td>
