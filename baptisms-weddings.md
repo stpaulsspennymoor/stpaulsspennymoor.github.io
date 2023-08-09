@@ -1,6 +1,6 @@
 ---
 title: Baptisms and weddings
-description: ** PLEASE NOTE THAT THE CHURCH OFFICE IS CLOSED ON FRIDAY 11TH AND FRIDAY 18TH AUGUST. FOR ANY URGENT ENQUIRIES REGARDING A CURRENT BOOKING, EMAIL OFFICE@STPAULSSPENNYMOOR.CO.UK ** If you're enquiring to arrange a baptism or wedding at St Paul’s or Whitworth Church, or would like to discuss them further, then please call in to the Church on a Friday morning evening between 10.30-11.30am.
+description: PLEASE NOTE THAT THE CHURCH OFFICE IS CLOSED ON FRIDAY 11TH AND FRIDAY 18TH AUGUST. FOR ANY URGENT ENQUIRIES REGARDING A CURRENT BOOKING, EMAIL OFFICE@STPAULSSPENNYMOOR.CO.UK If you're enquiring to arrange a baptism or wedding at St Paul’s or Whitworth Church, or would like to discuss them further, then please call in to the Church on a Friday morning evening between 10.30-11.30am.
 keywords: Spennymoor, baptisms, weddings, banns, bookings, church office, funerals
 header_image: /assets/WeddingHeader_917x0.jpg
 ---
