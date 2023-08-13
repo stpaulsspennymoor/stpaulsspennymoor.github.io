@@ -14,7 +14,7 @@ For _**wedding enquiries**_, please call the vicar on 01388 327603 or email our 
 
 ## Useful information about baptism
 
-Baptisms take place on the second and third Sundays of the month at 2.30 and 3.30pm.
+Baptisms take place on the second and fourth Sundays of the month at 2.30 and 3.30pm.
 
 * **Preparation –** you are invited, together with the godparents to meet with our preparation team to talk through what baptism means to your family and to go through the service. We also welcome into the Church family all those who are to be baptised on the first Sunday of the month at the 10.30am service.
 * **Godparents –** during the service you will all make promises for the child. It is important that you have all been baptised and that the Godparents fully understand their responsibilities. During the service you are declaring that you will bring up the child in the Christian faith. If you feel you are not able to make the promises, then we can talk to you about an alternative service of thanksgiving for your child. This is a very personal and individual service.
