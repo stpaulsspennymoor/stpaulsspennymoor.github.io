@@ -11,8 +11,9 @@ Back by popular demand we're delighted to be hosting a **FREE Light Party this O
 
 We're celebrating Jesus being the light of the world, so why not wear something VERY bright! (No Halloween or scary clothes, please).
 
-There are two parts to this event.
-**Light Party:** for children and their parents/carers with games, stories, crafts and more, plus tea will be provided for the children
+There are two parts to this event:
+
+**Light Party: ** for children and their parents/carers with games, stories, crafts and more, plus tea will be provided for the children
 **Pizza Fun:** for older children and teenagers with board games and crafts, takeaway pizza and a thought about the Christian faith
 
 The event takes place on Sunday 22nd October, 4:30-6pm in the St Paul's Centre.
