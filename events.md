@@ -15,4 +15,6 @@ There are two parts to this event:
 **Light Party:** for children and their parents/carers with games, stories, crafts and more, plus tea will be provided for the children
 **Pizza Fun:** for older children and teenagers with board games and crafts, takeaway pizza and a thought about the Christian faith
 
-The event takes place on Sunday 22nd October, 4:30-6pm in the St Paul's Centre. To book, please sign up here - https://forms.gle/qJAQb9swtjqPZcZ47
+The event takes place on Sunday 22nd October, 4:30-6pm in the St Paul's Centre.
+
+To book, please sign up via this Google Form (https://forms.gle/qJAQb9swtjqPZcZ47)
