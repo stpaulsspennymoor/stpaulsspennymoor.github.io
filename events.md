@@ -17,4 +17,4 @@ There are two parts to this event:
 
 The event takes place on Sunday 22nd October, 4:30-6pm in the St Paul's Centre.
 
-To book, please sign up via this Google Form (https://forms.gle/qJAQb9swtjqPZcZ47)
+To book, please sign up via this [Google Form](https://forms.gle/qJAQb9swtjqPZcZ47)
