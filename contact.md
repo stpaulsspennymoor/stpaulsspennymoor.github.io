@@ -29,7 +29,7 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
     </tr>
     <tr>
       <td><img src="/assets/CL churchwarden.png" width="134" height="174" border="1" alt="<empty>"/><br><p></p></td>
-      <td><p><span style="font-size: medium;"><strong>Christopher Luke</strong></span></p><p>Tel: 07796 137901</p><p>Christopher was elected churchwarden in October 2021 and returns to the role he previously held between 2007-2014.</p></td>
+      <td><p><span style="font-size: medium;"><strong>Christopher Luke</strong></span></p><p>Tel: 07796 137901</p><p>Christopher was elected churchwarden in October 2021 and returned to the role he previously held between 2007-2014.</p></td>
     </tr>
     <tr>
       <td><p></p></td>
