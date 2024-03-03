@@ -9,4 +9,4 @@ For more details about special services and events, visit our page at [A Church 
 
 Join us for Easter crafts and games for children aged 0-11s and their families on Saturday 30th March, 10:30am-12:30pm.
 
-To book for the free event (incuding a children’s lunch), sign up here - [https://forms.gle/2cNW2dmqYVyn6BM97]
+To book for the free event (incuding a children’s lunch), sign up via this [Google Form](https://forms.gle/2cNW2dmqYVyn6BM97)
