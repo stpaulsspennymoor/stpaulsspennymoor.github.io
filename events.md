@@ -7,6 +7,6 @@ For more details about special services and events, visit our page at [A Church 
 
 <img width="550" alt="MessyEaster banner" src="https://github.com/stpaulsspennymoor/stpaulsspennymoor.github.io/assets/139633336/d1c97cee-26e1-4c43-82ad-7645b05208f4">
 
-Join us for Easter crafts and games for children aged 0-11s and their families on Saturday 30th March, 10:30am-12:30pm.
+Join us for Easter crafts and games for children aged 0-11 and their families on Saturday 30th March, 10:30am-12:30pm.
 
 To book for the free event (incuding a children’s lunch), sign up via this [Google Form](https://forms.gle/2cNW2dmqYVyn6BM97)
