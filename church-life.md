@@ -9,7 +9,7 @@ For the latest news about all that is going on at St Paul's, check out our page 
 <span style="font-size: medium;">**Music**</span>\\
 Music is very important in the life of our church. We have an enthusiastic choir and worship band, who lead the congregation in singing a wide range of hymns and songs.
 
-<span style="font-size: medium;">**Sunday Morning Children's Ministry**,**</span>\\
+<span style="font-size: medium;">**Sunday Morning Children's Ministry**</span>\\
 We offer a range of activities for children of all ages at St Paul's on Sunday mornings from 10:30am. This includes a creche for babies and toddlers aged 0-3; Trekkers is for reception aged children up to 10; and SPY+ is for children aged 10 and over. The groups take place for about 40 minutes and include crafts linked to Bible stories, before everyone joins together for the remainder of the Sunday service.
 
 <span style="font-size: medium;">**Play Church**</span>\\
