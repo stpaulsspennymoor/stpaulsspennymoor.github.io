@@ -34,8 +34,6 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
     <tr>
       <td><p></p></td>
     </tr>
-     <td><p><span style="font-size: medium;"><strong>Samuel Thumaty</strong></span></p><p>
-       Details to follow
   </tbody>
 </table>
 
