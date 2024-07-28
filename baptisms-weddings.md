@@ -6,6 +6,8 @@ header_image: /assets/WeddingHeader_917x0.jpg
 ---
 <span style="text-align: center;"><a target="_blank" href="http://www.yourchurchwedding.org"><img width="640" height="80" align="middle" alt="Your Church Wedding" src="/assets/Websitebannerlarge.jpg"/></a></span>
 
+_**The church office for baptism enquiries is closed in August and will re-open on Friday 6th September. For any urgent enquiries, please email office@stpaulsspennymoor.co.uk**_
+
 If you're looking to arrange a _**baptism**_ at St Paul’s or Whitworth Church, or would like to discuss them further, then please call in at St Paul's Church on a Friday morning between 10.30-11.30am. The office staff will be more than happy to answer any questions or arrange a baptism for you.
 
 For _**wedding enquiries**_, please call the vicar on 01388 327603 or email our team at spennymoorandwhitworthweddings@gmail.com.
