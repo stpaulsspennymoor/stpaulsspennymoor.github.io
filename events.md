@@ -16,3 +16,5 @@ As the nights are drawing in, we've got an event to brighten things up. Come and
 A coffee morning to support WaterAid is taking place at St Paul’s Church on Saturday 19th October, from 10am-12noon.
 
 All proceeds raised will help support the charity’s vision of a world where everyone, everywhere has safe and sustainable water, sanitation and hygiene.
+
+<img width="700" alt="coffee morning poster" src="https://github.com/user-attachments/assets/ec0896b4-8234-47d5-926c-19015b0a4ab6">
