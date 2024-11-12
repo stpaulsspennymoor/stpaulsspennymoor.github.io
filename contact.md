@@ -13,7 +13,7 @@ Please contact via [email](mailto:office@stpaulsspennymoor.co.uk) or by telephon
 
 If you are contacing us to arrange a baptism or wedding, please [read this page for more information](/baptisms-weddings/).
 
-
+<p><strong><span style="font-size: medium;">Revd Canon Matt Tarling</span></strong></p>
       
 ## Press and Communications Officer
 
