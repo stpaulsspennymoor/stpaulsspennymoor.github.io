@@ -21,13 +21,14 @@ Revd Canon Matt Tarling
 Tel: 01388 327603
 
 **Curate**
+<p></p>
 Revd Lee Trevorrow-Earl
 <p></p>
 lee@stpaulsspennymoor.co.uk
 
 ## CHURCHWARDENS
 Christopher Luke
-<p></p>
+<p>
 Tel: 07796 137901
 
 Samuel Thumaty
