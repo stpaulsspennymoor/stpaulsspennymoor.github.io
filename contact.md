@@ -16,28 +16,28 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
 ## CLERGY
 **Vicar**
 <p></p>
-Revd Canon Matt Tarling\\
+Revd Canon Matt Tarling
 <p></p>
 Tel: 01388 327603
 
 **Curate**
 <p></p>
-Revd Lee Trevorrow-Earl\\
+Revd Lee Trevorrow-Earl
 <p></p>
 lee@stpaulsspennymoor.co.uk
 
 ## CHURCHWARDENS
-Christopher Luke\\
+Christopher Luke
 <p></p>
 Tel: 07796 137901
 
-Samuel Thumaty\\
+Samuel Thumaty
 <p></p>
 Tel: 07388 591093
       
 ## PRESS AND COMMUNICATIONS OFFICER
 
-Christopher Luke\\
+Christopher Luke
 office@stpaulsspennymoor.co.uk
 
 ## PARISH RECORDS
