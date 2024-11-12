@@ -25,7 +25,7 @@ Revd Lee Trevorrow-Earl
 <p></p>
 lee@stpaulsspennymoor.co.uk
 
-## Churchwardens
+## CHURCHWARDENS
 Christopher Luke
 <p></p>
 Tel: 07796 137901
