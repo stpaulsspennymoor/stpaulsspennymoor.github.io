@@ -22,20 +22,8 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
     <tr>
       <td><img src="/assets/RevdMattTarling.jpg" alt="Revd Canon Matt Tarling" width="134" height="136" border="1" align="left"></td>
       <td><p><strong><span style="font-size: medium;">Revd Canon Matt Tarling</span></strong></p><p>Tel: 01388 327603</p><p>Matt became vicar of Spennymoor and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth</a> parishes in January 2013 after serving his curacy in the parishes of Blaydon and Swalwell.</p></td>
-      <td><strong style="font-size: large;">Curate</strong></td>
-      <strong><span style="font-size: medium;">Revd Lee Trevorrow-Earl</span></strong></p><p>
-      lee@stpaulsspennymoor.co.uk
-    </tr>
-          <td><span style="font-size: large;"><strong>Churchwardens</strong></span></td>
-      <td></td>
- <td><p><span style="font-size: medium;"><strong>Christopher Luke</strong></span></p><p>Tel: 07796 137901</p><p>Christopher was elected churchwarden in October 2021 and returned to the role he previously held between 2007-2014.</p></td>
-      <td><p><span style="font-size: medium;"><strong>Samuel Thumaty</strong></span></p><p>Tel: 07388 591093</p><p>
-    </tr>
-    <tr>
-      <td><p></p></td>
-    </tr>
-  </tbody>
-</table>
+
+      
 
 ## Press and Communications Officer
 
