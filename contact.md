@@ -13,19 +13,28 @@ Please contact via [email](mailto:office@stpaulsspennymoor.co.uk) or by telephon
 
 If you are contacing us to arrange a baptism or wedding, please [read this page for more information](/baptisms-weddings/).
 
-## Clergy
+## CLERGY
+**Vicar**
+Revd Canon Matt Tarling
+Tel: 01388 327603
 
+**Curate**
+Revd Lee Trevorrow-Earl
+lee@stpaulsspennymoor.co.uk
 
+## Churchwardens
+Christopher Luke
+Tel: 07796 137901
 
-
-<p><strong><span style="font-size: medium;">Revd Canon Matt Tarling</span></strong></p>
+Samuel Thumaty
+Tel: 07388 591093
       
-## Press and Communications Officer
+## PRESS AND COMMUNICATIONS OFFICER
 
 Christopher Luke\\
 office@stpaulsspennymoor.co.uk
 
-## St Paul's Parish Records
+## PARISH RECORDS
 
 We only hold the most recent records of baptisms, marriages and funerals in church. All previous information is now archived at The Story in Durham.
 
