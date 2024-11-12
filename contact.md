@@ -23,8 +23,8 @@ If you are contacing us to arrange a baptism or wedding, please [read this page 
       <td><img src="/assets/RevdMattTarling.jpg" alt="Revd Canon Matt Tarling" width="134" height="136" border="1" align="left"></td>
       <td><p><strong><span style="font-size: medium;">Revd Canon Matt Tarling</span></strong></p><p>Tel: 01388 327603</p><p>Matt became vicar of Spennymoor and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth</a> parishes in January 2013 after serving his curacy in the parishes of Blaydon and Swalwell.</p></td>
 
+strong style="font-size: large;">Curate</strong>
       
-
 ## Press and Communications Officer
 
 Christopher Luke\\
