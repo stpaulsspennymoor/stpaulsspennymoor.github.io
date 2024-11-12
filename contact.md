@@ -37,7 +37,7 @@ Tel: 07388 591093
       
 ## PRESS AND COMMUNICATIONS OFFICER
 
-Christopher Luke
+Christopher Luke - 
 office@stpaulsspennymoor.co.uk
 
 ## PARISH RECORDS
