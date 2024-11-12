@@ -13,17 +13,7 @@ Please contact via [email](mailto:office@stpaulsspennymoor.co.uk) or by telephon
 
 If you are contacing us to arrange a baptism or wedding, please [read this page for more information](/baptisms-weddings/).
 
-<table width="100%" align="left" cellpadding="4" cellspacing="4">
-  <tbody>
-    <tr>
-      <td><strong style="font-size: large;">Vicar</strong></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><img src="/assets/RevdMattTarling.jpg" alt="Revd Canon Matt Tarling" width="134" height="136" border="1" align="left"></td>
-      <td><p><strong><span style="font-size: medium;">Revd Canon Matt Tarling</span></strong></p><p>Tel: 01388 327603</p><p>Matt became vicar of Spennymoor and <a href="https://www.achurchnearyou.com/church/13568" target="_blank">Whitworth</a> parishes in January 2013 after serving his curacy in the parishes of Blaydon and Swalwell.</p></td>
 
-strong style="font-size: large;">Curate</strong>
       
 ## Press and Communications Officer
 
