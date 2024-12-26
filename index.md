@@ -8,8 +8,6 @@ header_image: /assets/WeddingHeader_917x0_3_917x0.jpg
 
 <span style="font-size: x-large;">_**Believing the Good News, worshipping Jesus, sharing his love.**_</span>
 
-<span style="font-size: x-large;">_**Christmas at St Paul's Spennymoor - [find out more!](https://www.stpaulsspennymoor.co.uk/events/)**_</span>
-
 <span style="font-size: medium;">St Paul's church is at the heart of the community and it is our vision to reach out and serve the people of Spennymoor and beyond.</span>
 
 <span style="font-size: medium;">We seek to be a church where people of all ages feel valued and can grow in faith, worship and gifts – we look forward to welcoming you!</span>
