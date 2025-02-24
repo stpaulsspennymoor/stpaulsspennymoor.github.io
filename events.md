@@ -11,3 +11,5 @@ An evening led by a professional chocolatier; the egg is then yours to take away
 Wednesday 9 April, 7:30pm at St Paul's Church
 
 [Book your place!](https://forms.gle/rMkk4GboVVACziBKA)
+
+![Ladies Events Single Event Posters](https://github.com/user-attachments/assets/763f085f-df96-4388-ae7e-301a2224473f)
