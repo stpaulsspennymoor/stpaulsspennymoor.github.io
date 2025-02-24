@@ -12,4 +12,4 @@ Wednesday 9 April, 7:30pm at St Paul's Church
 
 [Book your place!](https://forms.gle/rMkk4GboVVACziBKA)
 
-<img width="450" alt="EggDecorating" src="https://github.com/user-attachments/assets/48ded194-df34-4871-8bcb-55317ca54bc0" />
+<img width="480" alt="EggDecorating" src="https://github.com/user-attachments/assets/48ded194-df34-4871-8bcb-55317ca54bc0" />
