@@ -1,4 +1,3 @@
----
 For more details about special services and events, visit our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/).
 
 ## Ladies at St Paul's Chocolate Egg Decorating
@@ -17,4 +16,4 @@ Saturday 19th April, 10:30am-12:30pm at St Paul's Church
 
 [Sign up now!](https://forms.gle/a5JvWKfy9igXL9v3A)
 
-![messyeasterFLYER](https://github.com/user-attachments/assets/1e22d906-ae59-4547-a274-203bbd3ebdcf)
+![MessyEasterInfo](https://github.com/user-attachments/assets/cb2ad11f-c333-4afc-ae7a-6db4e60d371c)
