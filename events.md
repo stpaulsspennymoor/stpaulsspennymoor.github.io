@@ -20,4 +20,4 @@ Saturday 19th April, 10:30am-12:30pm at St Paul's Church
 
 [Sign up now!](https://forms.gle/a5JvWKfy9igXL9v3A)
 
-![messyeasterFLYER](https://github.com/user-attachments/assets/2bc34ebe-ca48-4728-9c8c-e66611db4521)
+![messyeasterFLYER](https://github.com/user-attachments/assets/1e22d906-ae59-4547-a274-203bbd3ebdcf)
