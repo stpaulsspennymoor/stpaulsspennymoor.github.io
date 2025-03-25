@@ -13,12 +13,3 @@ Wednesday 9 April, 7:30pm at St Paul's Church
 [Book your place!](https://forms.gle/rMkk4GboVVACziBKA)
 
 <img width="480" alt="EggDecorating" src="https://github.com/user-attachments/assets/48ded194-df34-4871-8bcb-55317ca54bc0" />
-
-## Messy Easter
-Join us for Messy Easter - a FREE event of crafts, activities and a short family talk about Easter. The event is for 0-11 year olds and will include lunch for the children (and even some tasty treats for their grown ups!)
-
-Saturday 19th April, 10:30am-12:30pm at St Paul's Church
-
-[Sign up now!](https://forms.gle/a5JvWKfy9igXL9v3A)
-
-![MessyEasterInfo](https://github.com/user-attachments/assets/cb2ad11f-c333-4afc-ae7a-6db4e60d371c)
