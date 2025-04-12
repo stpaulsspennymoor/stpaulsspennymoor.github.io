@@ -5,4 +5,4 @@ header_image: /assets/Homepage_header_03_3_917x0.jpg
 ---
 For more details about special services and events, visit our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/).
 
-![Holy Week_Easter_STP-WC](https://github.com/user-attachments/assets/91a13ac9-ed63-4504-9f8c-bfbd2e7ab2ae)
+<img width="481" alt="HW_E_SERVICES" src="https://github.com/user-attachments/assets/1b6de7c5-196c-41ba-8346-423288d9c770" />
