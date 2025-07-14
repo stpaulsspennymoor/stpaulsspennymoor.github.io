@@ -12,6 +12,7 @@ DL16 7SG
 Please contact via [email](mailto:office@stpaulsspennymoor.co.uk) or by telephone.
 
 If you are contacing us to arrange a baptism or wedding, please [read this page for more information](/baptisms-weddings/).
+_**The church office for baptism enquiries will be closed from Friday 25 July and re-open on Friday 5 September, 10:30-11:30am. During the closure, enquiries can be made on a Sunday morning whilst the church is open for worship (service is 10:30-11:45am), or please email office@stpaulsspennymoor.co.uk**_
 
 ## CLERGY
 **Vicar**
