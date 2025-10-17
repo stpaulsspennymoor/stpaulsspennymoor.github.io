@@ -11,13 +11,7 @@ Copies of the safeguarding policies are available below.
 
 [Durham Diocesan Safeguarding Policy](https://durhamdiocese.org/parish-support/safeguarding/safeguarding-documents-and-policies/){:target="_blank"}
 
-[St Paul's Church Spennymoor Safeguarding Policy](https://www.dropbox.com/s/fttkepg70toqm3f/St%20Paul%27s%20Parish%20Safeguarding%20Policy.pdf?dl=0){:target="_blank"}
-
-[St Paul's Church Spennymoor Vulnerable Adults Policy](https://www.dropbox.com/s/mz8htn3gz95xghe/St%20Paul%27s%20Vulnerable%20Adults%20Policy.pdf?dl=0){:target="_blank"}
-
-[St Paul's Church Spennymoor Domestic Abuse Policy](https://www.dropbox.com/s/ti6geusj652qzo1/St%20Paul%27s%20Domestic%20Abuse%20policy.pdf?dl=0){:target="_blank"}
-
-[St Paul's Church Spennymoor Personal Safety Policy](https://www.dropbox.com/s/bcy9hbhtp65lb1e/St%20Paul%27s%20Personal%20safety%202021.pdf?dl=0){:target="_blank"}
+[St Paul's Church Spennymoor Safeguarding Policies](https://media.acny.uk/media/venues/page/attachment/2025/10/d0598d06-c921-4d2c-a137-163664bb4da1.pdf){:target="_blank"}
 
 **_If you have concerns reguarding safeguarding, you can contact:_**
 
