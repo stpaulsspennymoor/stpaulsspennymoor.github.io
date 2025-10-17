@@ -17,7 +17,7 @@ Copies of the safeguarding policies are available below.
 
 **Vicar**
 
-Revd Matt Tarling\\
+Revd Canon Matt Tarling\\
 01388 327603
 
 **Parish Safeguarding Officer**
