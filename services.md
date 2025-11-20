@@ -8,9 +8,6 @@ Details of our regular services are given below. For our special services and ev
 
 <span style="font-size: x-large;">_**Celebrate Christmas at St Paul's Spennymoor!**_</span>
 
-<img width="400" height="300" alt="ChristmasChristingle" src="https://github.com/user-attachments/assets/ea45a9d3-56bf-48ea-854b-96c527be1cea" />
-
-
 ## Sundays
 
 10.30am - Holy Communion with activities for children and young people including refreshments
