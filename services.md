@@ -10,6 +10,23 @@ Details of our regular services are given below. For our special services and ev
 
 <img width="579" height="336" alt="ChristmasChristingle2025" src="https://github.com/user-attachments/assets/91bf6f37-73cd-4671-9090-7f90f1e79340" />
 
+We invite to celebrate the good news of Christmas at St Paul's Spennymoor!
+
+There will be festive favourites at a Carol Service, a Relaxed Christmas service, two Christingle services and Christmas Day Communion. We look forward to welcoming you to celebrate Christ's birth!
+
+## Relaxed Christmas Service
+Saturday 20th December, 10:30am
+
+## Carol Service followed by refreshments*
+Sunday 21st December, 4pm
+
+## Christingle Service
+Christmas Eve, 4pm and repeated at 6pm
+
+## Christmas Day worship with Holy Communion*
+10am
+
+Services marked with an asterisk will also be live-streamed at [www.facebook.com/stpaulsspennymoor](https://www.facebook.com/stpaulsspennymoor)
 
 ## Sundays
 
