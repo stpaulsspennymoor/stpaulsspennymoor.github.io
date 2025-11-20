@@ -28,6 +28,8 @@ Christmas Eve, 4pm and repeated at 6pm
 
 Services marked with an asterisk will also be live-streamed at [www.facebook.com/stpaulsspennymoor](https://www.facebook.com/stpaulsspennymoor)
 
+<span style="font-size: x-large;">_**Weekly Church Services**_</span>
+
 ## Sundays
 
 10.30am - Holy Communion with activities for children and young people including refreshments
