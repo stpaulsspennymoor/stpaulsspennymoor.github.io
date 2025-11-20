@@ -6,6 +6,8 @@ header_image: /assets/Homepage_header_03_3_917x0.jpg
 ---
 Details of our regular services are given below. For our special services and events, please visit our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/).
 
+<span style="font-size: x-large;">_**Celebrate Christmas at St Paul's Spennymoor!**_</span>
+
 ## Sundays
 
 10.30am - Holy Communion with activities for children and young people including refreshments
