@@ -6,28 +6,6 @@ header_image: /assets/Homepage_header_03_3_917x0.jpg
 ---
 Details of our regular services are given below. For our special services and events, please visit our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/).
 
-<span style="font-size: x-large;">_**Celebrate Christmas at St Paul's Spennymoor!**_</span>
-
-<img width="579" height="336" alt="ChristmasChristingle2025" src="https://github.com/user-attachments/assets/91bf6f37-73cd-4671-9090-7f90f1e79340" />
-
-We invite to celebrate the good news of Christmas at St Paul's Spennymoor!
-
-There will be festive favourites at a Carol Service, a Relaxed Christmas service, two Christingle services and Christmas Day Communion. We look forward to welcoming you to celebrate Christ's birth!
-
-## Relaxed Christmas Service
-Saturday 20th December, 10:30am
-
-## Carol Service followed by refreshments*
-Sunday 21st December, 4pm
-
-## Christingle Service
-Christmas Eve, 4pm and repeated at 6pm
-
-## Christmas Day worship with Holy Communion*
-10am
-
-Services marked with an asterisk will also be live-streamed at [www.facebook.com/stpaulsspennymoor](https://www.facebook.com/stpaulsspennymoor)
-
 <span style="font-size: x-large;">_**Weekly Church Services**_</span>
 
 ## Sundays
