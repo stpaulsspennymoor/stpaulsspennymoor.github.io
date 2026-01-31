@@ -12,3 +12,5 @@ Wednesday 11th March, 7:30pm
 St Paul's Church
 
 An evening making two glass creations, led by Karen from Glass by Donemark. The creations will then be fired and available to collect at a later date. The event includes refreshments and a short thought given about Easter.
+
+<img width="533" height="458" alt="Fused Glass Workshop" src="https://github.com/user-attachments/assets/c96b876b-2175-4406-904d-fddd07ef67ff" />
