@@ -5,13 +5,9 @@ header_image: /assets/Homepage_header_03_3_917x0.jpg
 ---
 For more details about special services and events, visit our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/).
 
-<span style="font-size: x-large;">_**Ladies at St Paul's : Fused Glass Worshop**_</span>
+<span style="font-size: x-large;">_**SOLD OUT! Ladies at St Paul's Fused Glass Worshop**_</span>
 
-Wednesday 11th March, 7:30pm
-
-St Paul's Church
-
-[Book your space now!](https://forms.gle/5Lm7zT9Db2Q9ZxLB7)
+We've had a fantastic response to this workshop and all 60 spaces were snapped up in just 24 hours. If you'd like to be added to a waiting list in the event of cancellations, please email ladies@stpaulsspennymoor.co.uk
 
 An evening making two glass creations, led by Karen from Glass by Donemark. The creations will then be fired and available to collect at a later date. The event includes refreshments and a short thought given about Easter.
 
