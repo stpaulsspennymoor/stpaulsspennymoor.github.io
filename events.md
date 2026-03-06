@@ -8,4 +8,4 @@ For more details about special services and events, visit our page at [A Church 
 <span style="font-size: x-large;">_**Messy Easter at St Paul's!**_</span>
 
 
-<img width="703" height="587" alt="MessyEaster2026" src="https://github.com/user-attachments/assets/a4ef0cdd-dc4f-45de-bf58-ea5762f86f14" />
+<img width="603" height="487" alt="MessyEaster2026" src="https://github.com/user-attachments/assets/a4ef0cdd-dc4f-45de-bf58-ea5762f86f14" />
