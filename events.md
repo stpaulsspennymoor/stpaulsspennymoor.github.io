@@ -13,6 +13,6 @@ Taking place on Saturday 4th April, 10.30am-12.30pm, at St Paul's Church, the ev
 
 There’ll be plenty of crafts and activities, and a short talk about what makes Easter so amazing. This will be followed by a sandwich lunch for the children (and treats for grown-ups too).
 
-The event is FREE, but there are limited places and it often books up quite quickly, so [sign up now!](https://forms.gle/GNaLcnfyR8GriwtK7)
+The event is FREE, but there are limited places and they book up quickly, so [sign up now!](https://forms.gle/GNaLcnfyR8GriwtK7)
 
 <img width="603" height="487" alt="MessyEaster2026" src="https://github.com/user-attachments/assets/a4ef0cdd-dc4f-45de-bf58-ea5762f86f14" />
