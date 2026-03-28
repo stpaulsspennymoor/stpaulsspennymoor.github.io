@@ -35,4 +35,4 @@ Mrs Lesley Riddle\\
 
 **Mobile:** 07968034075
 
-[https://durhamdiocese.org/parish-support/safeguarding](https://durhamdiocese.org/parish-support/safeguarding/){:target="_blank"}
+[https://durhamdiocese.org/safeguarding/](https://durhamdiocese.org/safeguarding/){:target="_blank"}
