@@ -7,6 +7,8 @@ For more details about special services and events, visit our page at [A Church 
 
 ## Spennymoor Town and Youth Band Summer Concert
 
+<img width="717" height="473" alt="Screenshot 2026-05-27 at 22 29 38" src="https://github.com/user-attachments/assets/743cca53-feb9-46c8-a602-4b2c27e1ae72" />
+
 We're delighted to be welcoming Spennymoor Town and Youth Band for their Summer Concert at St Paul's Church on Saturday 6th June at 7:30pm!
 
 Tickets priced at £8 (16s and under free) are on sale now and available from band members, in church on Sunday mornings, Clayton's Candy Corner in the town centre, or by emailing office@stpaulsspennymoor.co.uk. You can also pay on the door on the night of the concert.
