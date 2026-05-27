@@ -7,7 +7,7 @@ For more details about special services and events, visit our page at [A Church 
 
 ## Spennymoor Town and Youth Band Summer Concert
 
-<img width="717" height="473" alt="Screenshot 2026-05-27 at 22 29 38" src="https://github.com/user-attachments/assets/743cca53-feb9-46c8-a602-4b2c27e1ae72" />
+<img width="497" height="328" alt="Screenshot 2026-05-27 at 22 31 25" src="https://github.com/user-attachments/assets/3c72a490-c953-4b85-963c-d1fc3d136c8d" />
 
 We're delighted to be welcoming Spennymoor Town and Youth Band for their Summer Concert at St Paul's Church on Saturday 6th June at 7:30pm!
 
