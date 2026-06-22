@@ -5,10 +5,12 @@ header_image: /assets/Homepage_header_03_3_917x0.jpg
 ---
 For more details about special services and events, visit our page at [A Church Near You](https://www.achurchnearyou.com/church/13565/).
 
-## Spennymoor Town and Youth Band Summer Concert
+## Youth Spray Paint Workshop
 
-<img width="497" height="328" alt="Screenshot 2026-05-27 at 22 31 25" src="https://github.com/user-attachments/assets/3c72a490-c953-4b85-963c-d1fc3d136c8d" />
+<img width="548" height="286" alt="SprayPaintWorkshopJULY" src="https://github.com/user-attachments/assets/8574d301-03fe-4e1b-8701-6571b7ebce96" />
 
-We're delighted to be welcoming Spennymoor Town and Youth Band for their Summer Concert at St Paul's Church on Saturday 6th June at 7:30pm!
+As part of this summer's Holiday Club, we're once again hosting a youth event for those aged 12-18 and it will be a spray paint workshop!
 
-Tickets priced at £8 (16s and under free) are on sale now and available from band members, in church on Sunday mornings, Clayton's Candy Corner in the town centre, or by emailing office@stpaulsspennymoor.co.uk. You can also pay on the door on the night of the concert.
+The event will take place on Tuesday 28th July, 7-9pm at Trinity Methodist Church, and costs just £3 per person (please bring cash on the evening).
+
+[Booking is essential, so please sign up](https://forms.gle/Mu9VMJscgGUZWdW3A)
