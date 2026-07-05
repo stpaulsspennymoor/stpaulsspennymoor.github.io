@@ -22,9 +22,8 @@ Tel: 01388 327603
 
 **Curate**
 <p></p>
-Revd Lee Trevorrow-Earl
+Revd Lee Earl
 <p></p>
-lee@stpaulsspennymoor.co.uk
 
 ## CHURCHWARDENS
 Christopher Luke
