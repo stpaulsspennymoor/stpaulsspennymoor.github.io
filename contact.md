@@ -25,15 +25,11 @@ Tel: 01388 327603
 Revd Lee Earl
 <p></p>
 
-## CHURCHWARDENS
+## CHURCHWARDEN
 Christopher Luke
 <p></p>
 Tel: 07796 137901
 
-Samuel Thumaty
-<p></p>
-Tel: 07388 591093
-      
 ## PRESS AND COMMUNICATIONS OFFICER
 
 Christopher Luke - 
