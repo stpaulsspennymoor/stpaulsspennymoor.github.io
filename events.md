@@ -1,4 +1,3 @@
-<img width="631" height="534" alt="Chocolate event 2026" src="https://github.com/user-attachments/assets/4de9f8c1-1e58-43a9-9b0a-4006fdb6ea34" />---
 title: Events and Concerts
 description: Details of events and concerts at St Paul's Church Spennymoor.
 header_image: /assets/Homepage_header_03_3_917x0.jpg
